@@ -3,6 +3,27 @@
 
 # BASIC
 
+**SQL has mainly three types of**
+* DDL(data defination language) - create , alter and drop.
+* DML(data manupulation language) - select , insert , update and delete.
+* DCL(data control language) - it has two parts :-
+     * **Grant Access** where you grant access to someone to work in your db
+     * **Revoke Access** where you take back the control.
+
+**Datatypes**
+* datatype of a column defines what value the column can store.
+* it is defined when the table is created.
+* mainly three types:-
+  * string:- char , varchar
+  * numeric:- int, float
+  * boolean:- bool
+  * date and time :- date and datetime
+
+**Constraints**
+* constraints are use to specify rules on the data in the table.
+
+
+ 
 # HOW TO CREATE and DELETE DATABASE ,TABLE, INSERT VALUES IN IT, SET PRIMARY KEY
 
 ```
